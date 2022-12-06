@@ -1,9 +1,9 @@
-package br.com.alura.tdd.service;
+package br.com.sanara.tdd.service;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 
-import br.com.alura.tdd.modelo.Funcionario;
+import br.com.sanara.tdd.modelo.Funcionario;
 
 public class BonusService {
 

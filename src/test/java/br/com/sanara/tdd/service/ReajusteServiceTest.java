@@ -1,4 +1,4 @@
-package br.com.alura.tdd.service;
+package br.com.sanara.tdd.service;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -11,8 +11,8 @@ import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import br.com.alura.tdd.modelo.Desempenho;
-import br.com.alura.tdd.modelo.Funcionario;
+import br.com.sanara.tdd.modelo.Desempenho;
+import br.com.sanara.tdd.modelo.Funcionario;
 
 class ReajusteServiceTest {
 
